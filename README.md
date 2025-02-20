@@ -1,5 +1,14 @@
 ## Hi, I'm Ruby! —— A Front-end engineer 👩🏻‍💻 
 
+<div align="left">
+  <a href="mailto:ruby.yf.lin@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/yufen-lin/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
 ### A Little About Me ✨
 💛 **A lover of all things cute** – Teddy Bear 🐻, kaomojis (⁎⁍̴̛ᴗ⁍̴̛⁎) and maybe even cute people 🤩. <br/>
 🍲 **Hotpot Enthusiast** – Hot broth 🍲 + Meat 🥓 + Your favorite ingredients 🥬 + Someone you love 👩🏻‍❤️‍👨🏻 = Perfection. <br/>
@@ -37,12 +46,5 @@
 
 ### 🤝🏼 Let's Connect!
 ↓ If you like what you see (or just want to say hi 👋), I’d love to chat! 
+<p>💌 Email: <a href="mailto:ruby.yf.lin@gmail.com">ruby.yf.lin@gmail.com</a></p>
 
-<div align="left">
-  <a href="ruby.yf.lin@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/yufen-lin/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
